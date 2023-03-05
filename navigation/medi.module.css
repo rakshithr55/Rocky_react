@@ -1,0 +1,39 @@
+
+.mainBlock{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(137, 43, 226, 0.322);
+    height: 75px;
+}
+.main{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    font-size: 20px;
+    padding-right: 200px;
+    align-content: center;
+    
+}
+.block{
+    text-decoration: none;
+    list-style: none;
+    font-style:italic;
+    font-size: 10px;
+    color: crimson;
+    padding-bottom: 30px;
+    padding-left: 1px;
+}
+
+img{
+    margin-top: 0px;
+    margin-left: 10px;
+    height: 40px;
+    width: 100px;
+    padding-top: 1px;
+    align-content: center;
+}
+
+/* ul li a{
+    margin-left: 40px;
+    list-style: none;text-decoration: none;
+} */

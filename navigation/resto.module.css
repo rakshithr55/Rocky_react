@@ -1,0 +1,22 @@
+.main{
+    background-color: rgba(63, 59, 59, 0.32);
+ height: 75px;
+ display: flex;
+ justify-content: space-between;   
+}
+.block{
+        display: flex;
+        text-decoration: none;
+        list-style: none;
+        padding-right: 200px;
+        font-size: larger;
+}
+.li{
+    text-decoration: none;
+    list-style: none;
+    font-size:10px ;
+}
+img{
+    height: 40px;
+    width: 100px;
+}
